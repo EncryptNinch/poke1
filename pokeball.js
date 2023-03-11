@@ -5,7 +5,6 @@ function setup() {
   // Put setup code here
 }
 
-const foo = "";
 function draw() {
   // Put drawings here
   fill(234, 0, 0);
