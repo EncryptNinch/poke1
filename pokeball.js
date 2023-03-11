@@ -13,7 +13,7 @@ function draw() {
   fill(255);
   stroke("black");
   strokeWeight(4);
-  line(320, 195, 76, 195);
+  line(320, 196, 77, 196);
   stroke("white");
   fill("white");
   square(30, 200, 350, 150);
